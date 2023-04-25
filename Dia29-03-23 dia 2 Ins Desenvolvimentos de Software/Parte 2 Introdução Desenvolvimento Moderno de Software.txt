@@ -1,0 +1,12 @@
+No dia 31/03/23 finalizei a aula de introdução desenvolvimento moderno de softaware com o Prof Denilson Bonatti
+
+Nesse dia começamos os estudos falando sobre o que são os frameworks.
+É um falicitador, ele traz diversas soluções já pré definidos
+Um programador pode ser criativo, mas também traz aspectos mecânicos. Ex: Angulas, JavaScript. 
+
+Desenvolvedor Backend
+O que vem por trás de um uma aplicação.
+
+Falamos também um pouco de outros profissionais que são Desenvolvedor Full Stack, Quality Assurance(QA).
+Foi falado Modelo cliente e servidor, nuvem pública e nuvem privada. 
+

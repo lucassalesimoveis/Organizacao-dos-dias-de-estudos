@@ -1,0 +1,12 @@
+No dia 29/03/23 comecei a aula de introdução desenvolvimento moderno de softaware com o Prof Denilson Bonatti
+
+Sistema Desktop X Sistema Web
+
+Sistema Desktop são sistemas autônomos que podem ser instalados no computador. Ex: Microsoft Word e Excel
+
+Sistema Web são baseados em tecnologia web, podendo ser utilizados remotamente através de qualquer navegador de internet, sem a necessidade de instalação e atualização local.
+
+UX Design (User Experience)
+O design da experiência do usuário é o processo que visa melhorar a satisfação do usuário com produto ou serviço e até mesmo a satisfação proporcionara interação.
+
+OBS: Continue com os estudos em outros dias. 

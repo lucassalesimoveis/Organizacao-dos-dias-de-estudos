@@ -1,0 +1,11 @@
+Comecei a fazer o Curso Kotlin no dia 28/03/23 nesse dia começamos básico do estudo.
+Abaixo está algumas das partes que coloquei como principal das aulas.
+O que é Bootcamp?
+É um método de ensino imersivo e intensivo para quem quer desenvolver suas habilidades em curto período de tempo.
+Frases de Efeito falado pelo professor:
+Desenvolver raciocínio lógico = aumentar sua capacidade de reseolver problemas.
+Falar é fácil, mostre-me o código.
+
+Link da primeira aula:
+
+https://web.dio.me/course/conheca-as-oportunidades-da-dio/learning/c7b8e356-2fde-4e81-a87e-7414ca20a5a7?back=/track/bootcamp-tqi-kotlin&tab=undefined&moduleId=undefined

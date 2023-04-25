@@ -1,0 +1,10 @@
+Dia 10-04-23 até dia 20-04-23 Primeiros passos para começar a programar com Professora Juliana Mascarenhas
+
+Dia 2 Raciocínio Lógico 
+
+Classificação Indução, Dedução, Abdução
+
+Falou mais sobre Abstrair, Abjtração e como construir um algoritmo. 
+
+Ex: Sequencia de ações para tomar café. 
+
